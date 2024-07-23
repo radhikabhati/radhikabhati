@@ -1,0 +1,11 @@
+.horizontal-list {
+  width: fit-content;
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+}
+
+.horizontal-list li {
+  display: inline;
+  margin-right: 20px;
+}
