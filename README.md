@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🐉 Personality of the dragon from Shrek 🐲
-- 👩🏻‍💻 I'm a software engineer at Google.Working on making my online portfolio to showcase my art and other interests
+- 👩🏻‍💻 Software engineer at Google, and making my online portfolio to showcase my art and other interests
 - 🌱 Love gardening, swimming and spending time with my dogs 🐶🐶
 
 
